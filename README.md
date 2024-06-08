@@ -1,10 +1,15 @@
-### Hi! good to see you.
+🎵 Musician developer whom passionate in coding and software design (mostly like to make fun thing). Most coding on Bitbucket and might find an opportunity to distribute some work here.
 
-🎵 I'm musician developer passionate in coding and software design (mostly like to make fun thing).
+## Badges and Certificates
 
-Interesting in Machine Learning and looking for the way to dive in.
+<a href="https://www.credly.com/badges/dcef9d73-f9fa-42ac-ac6f-8f183c0e96a7/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+</a>
 
-<h3>✨ What you see</h3>
+- [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/4e382de7-a6ed-44e9-bbd9-9401ae790675)
+
+
+## ✨ My front-end stack
 <p>
   <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
@@ -14,7 +19,7 @@ Interesting in Machine Learning and looking for the way to dive in.
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-<h3>🔨 What I do in background</h3>
+## 🔨 Data lover
 <p>
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -27,7 +32,7 @@ Interesting in Machine Learning and looking for the way to dive in.
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-<h3>🚀 How I send them above to performance stage</h3>
+## 🚀 Things on CLOUD!
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
