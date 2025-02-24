@@ -6,6 +6,10 @@
   <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 </a>
 
+<a href="https://www.credly.com/badges/37714c07-0c41-4353-a710-b98f691bbd56/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+</a>
+
 - [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/4e382de7-a6ed-44e9-bbd9-9401ae790675)
 
 
